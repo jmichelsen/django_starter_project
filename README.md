@@ -2,9 +2,9 @@
 
 Clone this repo to get a starter project for Django.
 
-Config is where repo-wide config goes including the various settings files for django.
+`config` is where repo-wide config goes including the various settings files for django.
 
-Common is a django app that contains models, views, and utilities, that are shared across all other apps within the project.
+`common` is a django app that contains models, views, and utilities, that are shared across all other apps within the project.
 
 To add your own django apps to the project, use command `django-admin startapp {your_app_name}`
 
